@@ -16,3 +16,6 @@ React, Sass, CSS Modules, Vite
 |---------|-------------|--------------|------|
 | 📃 [To-Do List](https://github.com/flinski/todo-list) | Simple task list | React, CSS Modules, Vite | [Link](https://github.com/flinski/todo-list) |
 
+### 📈 Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flinski&layout=compact&theme=light)
