@@ -14,4 +14,5 @@ React, Sass, CSS Modules, Vite
 
 | Project | Description | Technologies | Demo |
 |---------|-------------|--------------|------|
+| 📃 [Image Gallery](https://github.com/flinski/image-gallery) | Simple image gallery | React, CSS Modules, Vite, Unsplash API | [Link](https://flinski.github.io/image-gallery/) |
 | 📃 [To-Do List](https://github.com/flinski/todo-list) | Simple task list | React, CSS Modules, Vite | [Link](https://flinski.github.io/todo-list/) |
