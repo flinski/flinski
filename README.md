@@ -8,7 +8,7 @@ Description
 
 ### 🔥 Skills
 
-React, Sass, CSS Modules, Vite
+React, Redux & RTK, Sass, CSS Modules, Vite
 
 ### 🚀 Pet Projects
 
