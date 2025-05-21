@@ -10,7 +10,8 @@ Description
 
 - React
 - React Router
-- Redux & Redux Toolkit
+- React Query
+- Redux Toolkit
 - CSS/SCSS Modules
 - Vite
 
