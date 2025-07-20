@@ -20,4 +20,4 @@ Description
 | Project | Description | Technologies | Demo |
 |---------|-------------|--------------|------|
 | 📷 [Image Gallery](https://github.com/flinski/image-gallery) | Simple image gallery | React, SCSS Modules, Vite, Unsplash API | [Link](https://flinski.github.io/image-gallery/) |
-| 📃 [To-Do List](https://github.com/flinski/todo-list) | Simple task list | React, SCSS Modules, Vite | [Link](https://flinski.github.io/todo-list/) |
+| 🍃 [Leafy Todos](https://github.com/flinski/leafy-todos) | A simple and minimalistic application for managing your to-do list. | React, TypeScript, SCSS Modules, Vite | [Link](https://flinski.github.io/leafy-todos/) |
