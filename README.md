@@ -8,6 +8,7 @@ Description
 
 ### 🔥 Skills
 
+- TypeScript
 - React
 - React Router
 - React Query
