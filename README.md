@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Vladislav. I am a beginner frontend react developer.
+My name is Vladislav. I am a beginner frontend React developer.
 
 ### 📱 Contacts
 
