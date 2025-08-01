@@ -11,7 +11,7 @@ My name is Vladislav. I am a beginner frontend React developer.
 - TypeScript
 - React
 - React Router
-- React Query
+- TanStack Query
 - Redux Toolkit
 - CSS/SCSS Modules
 - Vite
