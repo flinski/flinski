@@ -15,6 +15,7 @@ My name is Vladislav. I am a beginner frontend React developer.
 - Redux Toolkit
 - CSS/SCSS Modules
 - Vite
+- Prettier, ESLint, Stylelint, Husky
 
 ### 🚀 Pet Projects
 
