@@ -6,16 +6,40 @@ My name is Vladislav. I am a beginner frontend React developer.
 
 [Telegram](url), [LinkedIn](url), [GitHub](https://github.com/flinski)
 
-### 🔥 Skills
+### 🔥 Tech Stack
 
+**🎯 Core**
+
+- React + React Router
+- Next.js
 - TypeScript
-- React
-- React Router
-- TanStack Query
+
+🎨 **Styling**
+
+- Sass
+- CSS Modules
+- Tailwind CSS
+
+🔄 **State Management**
+
 - Redux Toolkit
-- CSS/SCSS Modules
+- React (TanStack) Query
+
+🛠 **Tools & Build**
+
+- ESLint, Stylelint, Prettier
+- Husky, lint-staged
 - Vite
-- Prettier, ESLint, Stylelint, Husky
+
+🌐 **API & Data**
+
+- Fetch API
+- Axios
+
+✅ **Testing**
+
+- Vitest
+- React Testing Library 
 
 ### 🚀 Pet Projects
 
