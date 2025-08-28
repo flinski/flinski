@@ -26,7 +26,7 @@ My name is Vladislav. I am a beginner Frontend React Developer.
 - Redux Toolkit
 - React Query
 
-🛠 **Tools & Build**
+🔨 **Tools & Build**
 
 - Vite
 - ESLint, Stylelint, Prettier
