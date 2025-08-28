@@ -4,7 +4,7 @@ My name is Vladislav. I am a beginner Frontend React Developer.
 
 ### 📱 Contacts
 
-[Telegram](url), [LinkedIn](url), [GitHub](https://github.com/flinski)
+[GitHub](https://github.com/flinski)
 
 ### 🔥 Tech Stack
 
