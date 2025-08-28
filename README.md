@@ -10,11 +10,10 @@ My name is Vladislav. I am a beginner Frontend React Developer.
 
 **🎯 Core**
 
-![Static Badge](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=333333&logoSize=auto&link=https%3A%2F%2Freact.dev%2F)
-
+- TypeScript
+- React
 - React Router
 - Next.js
-- TypeScript
 
 🎨 **Styling**
 
@@ -25,17 +24,16 @@ My name is Vladislav. I am a beginner Frontend React Developer.
 🔄 **State Management**
 
 - Redux Toolkit
-- React (TanStack) Query
+- React Query
 
 🛠 **Tools & Build**
 
+- Vite
 - ESLint, Stylelint, Prettier
 - Husky, lint-staged
-- Vite
 
 🌐 **API & Data**
 
-- Fetch API
 - Axios
 
 ✅ **Testing**
