@@ -36,11 +36,6 @@ My name is Vladislav. I am a beginner Frontend React Developer.
 
 - Axios
 
-✅ **Testing**
-
-- Vitest
-- React Testing Library 
-
 ### 🚀 Pet Projects
 
 | Project | Description | Technologies | Demo |
