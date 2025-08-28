@@ -10,7 +10,9 @@ My name is Vladislav. I am a beginner Frontend React Developer.
 
 **🎯 Core**
 
-- React + React Router
+![Static Badge](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=333333&logoSize=auto&link=https%3A%2F%2Freact.dev%2F)
+
+- React Router
 - Next.js
 - TypeScript
 
