@@ -6,7 +6,7 @@ My name is Vladislav. I am a Frontend React Developer.
 
 [GitHub](https://github.com/flinski)
 
-### 🔥 Tech Stack
+### 🔥 Skills
 
 **🎯 Core**
 
