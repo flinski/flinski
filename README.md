@@ -40,6 +40,7 @@ My name is Vladislav. I am a Frontend React Developer.
 
 | Project | Description | Technologies | Demo |
 |---------|-------------|--------------|------|
+| 🏡 [Eden Cabins](https://github.com/flinski/eden-cabins) | An administrative panel for company employees, designed to manage reservations and accommodations. | React, TypeScript, Tailwind CSS, Vite, Supabase | [Link](https://eden-cabins.vercel.app/) |
 | ⛅ [Breeze Weather](https://github.com/flinski/breeze-weather) | A modern application for viewing weather forecasts with a user-friendly interface and personalization support | React, TypeScript, SCSS Modules, Vite, OpenMeteo API | [Link](https://flinski.github.io/breeze-weather/) |
 | ☀️ [Lumen Gallery](https://github.com/flinski/lumen-gallery) | An application for searching and viewing images using the Unsplash API | React, TypeScript, SCSS Modules, Vite, Unsplash API | [Link](https://flinski.github.io/lumen-gallery/) |
 | ⏰ [Pine Time](https://github.com/flinski/pine-time) | Pomodoro timer designed to increase productivity and intelligently alternate focus and rest | React, TypeScript, SCSS Modules, Vite | [Link](https://flinski.github.io/pine-time/) |
