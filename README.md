@@ -24,7 +24,7 @@ My name is Vladislav. I am a Frontend React Developer.
 🔄 **State Management**
 
 - Redux Toolkit
-- React Query
+- React (TanStack) Query
 
 🔨 **Tools & Build**
 
