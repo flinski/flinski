@@ -40,6 +40,7 @@ My name is Vladislav. I am a Frontend React Developer.
 
 | Project | Description | Technologies | Demo |
 |---------|-------------|--------------|------|
+| 💰 [Coin Keeper](https://github.com/flinski/coin-keeper) | An income and expense tracking app that lets you manage your finances, categorize transactions, and analyze your financial activity using visual charts. | React (Router, TanStack Query), TypeScript, Tailwind CSS, Vite, Supabase, Shadcn-ui | [Link](https://coin-keeper-zeta.vercel.app/dashboard) |
 | 🏡 [Eden Cabins](https://github.com/flinski/eden-cabins) | An administrative panel for company employees, designed to manage reservations and accommodations. | React, TypeScript, Tailwind CSS, Vite, Supabase | [Link](https://eden-cabins.vercel.app/) |
 | ⛅ [Breeze Weather](https://github.com/flinski/breeze-weather) | A modern application for viewing weather forecasts with a user-friendly interface and personalization support | React, TypeScript, SCSS Modules, Vite, OpenMeteo API | [Link](https://flinski.github.io/breeze-weather/) |
 | ☀️ [Lumen Gallery](https://github.com/flinski/lumen-gallery) | An application for searching and viewing images using the Unsplash API | React, TypeScript, SCSS Modules, Vite, Unsplash API | [Link](https://flinski.github.io/lumen-gallery/) |
