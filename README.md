@@ -32,10 +32,6 @@ My name is Vladislav. I am a Frontend React Developer.
 - ESLint, Stylelint, Prettier
 - Husky, lint-staged
 
-🌐 **API & Data**
-
-- Axios
-
 ### 🚀 Pet Projects
 
 | Project | Description | Technologies | Demo |
