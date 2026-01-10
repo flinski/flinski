@@ -30,7 +30,7 @@ My name is Vladislav. I am a Frontend React Developer.
 
 - Vite
 - ESLint, Stylelint, Prettier
-- Husky, lint-staged
+- Husky
 
 ### 🚀 Pet Projects
 
