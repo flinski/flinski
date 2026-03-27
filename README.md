@@ -5,8 +5,11 @@ My name is Vladislav. I am a software developer with extensive knowledge in fron
 ### 📱 Contacts
 
 [flinssski@gmail.com](flinssski@gmail.com)
+
 [GitHub](https://github.com/flinski)
+
 [LinkedIn](https://www.linkedin.com/in/flinski/)
+
 [HeadHuner](https://hh.ru/resume/4d0d46deff1022529a0039ed1f494d3375725a)
 
 ### 🔥 Skills
