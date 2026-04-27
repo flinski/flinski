@@ -1,4 +1,4 @@
-> Front-end developer specializing in React, TypeScript, and Next.js.
+> Frontend developer specializing in React, TypeScript, and Next.js.
 
 ### Frontend
 
