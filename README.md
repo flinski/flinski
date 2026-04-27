@@ -3,8 +3,8 @@
 ### Frontend
 
 - TypeScript / React / Next.js
-- Redux Toolkit / TanStack Query / React Router
-- Tailwind CSS / CSS Modules / Sass 
+- React Router / Redux Toolkit / TanStack Query
+- Tailwind CSS / CSS Modules / Sass
 - Vite / ESLint / Stylelint / Prettier / Husky
 
 ### Contacts
