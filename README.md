@@ -4,8 +4,12 @@
 
 - TypeScript / React / Next.js
 - React Router / Redux Toolkit / TanStack Query
-- Tailwind CSS / CSS Modules / Sass
+- Tailwind CSS / CSS Modules / Sass (SCSS)
 - Vite / ESLint / Stylelint / Prettier / Husky
+
+### Backend
+
+- Supabase
 
 ### Contacts
 
